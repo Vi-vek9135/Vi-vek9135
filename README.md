@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Roushan(@Vi-vek9135)
-- 👀 I’m interested in web development, android development, and artificial intelligence 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on projects based on web development 
+- 👀 I’m interested in web development, artificial intelligence and Generative AI
+- 🌱 I’m working on learning Generative AI project
+- 💞️ I’m looking to collaborate on projects based on Generative AI project
 - 📫 How to reach me  (vivekroushan32@gmail.com)
 
 <!---
